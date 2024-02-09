@@ -1,0 +1,16 @@
+{
+    "no_card": "Je hebt geen hack laptop op zak!",
+    "no_glitch": "Fail glitch guy !",
+    "no_robhere": "No Rob ATM here, go in the city",
+    "hack_first": "Hack de ATM voordat je kan stelen!",
+    "already_hack": "Je hebt de hack al uitgevoerd!",
+    "already_stole": "Je hebt recentelijk een ATM overvallen...",
+    "stole": "Je stal %s",
+    "robbing_inprogress": "Er is al een ATM overval bezig, probeer het later nog eens...",
+    "no_cops": "Er zijn niet genoeg agenten, om deze ATM te overvallen!",
+    "alarm_notify": "Iemand is een ATM aan het hacken!",
+    "hack_atm": "Hack de ATM",
+    "steal_money": "Steel het geld",
+    "hack_success": "Hack is successvol uitgevoerd!",
+    "steal_success": "ATM is leeg..."
+}

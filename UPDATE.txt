@@ -1,0 +1,3 @@
+Update 1.6.1
+
+- Added debug functions (u can set in {config_function.lua:19 = true or false})
