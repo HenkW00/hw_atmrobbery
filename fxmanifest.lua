@@ -4,7 +4,7 @@ games {'gta5'}
 lua54 'yes'
 
 name         'hw_atmrobbery'
-version      '1.6.1'
+version      '1.6.2'
 description  'ATM Robbery system'
 author       'HenkW'
 
@@ -30,7 +30,3 @@ files{
     'locales/*.json'
 }
 
-escrow_ignore {
-	'shared/config_functions.lua',
-	'fxmanifest.lua'
-}

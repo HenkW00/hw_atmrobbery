@@ -1,3 +1,5 @@
+ESX = exports["es_extended"]:getSharedObject()
+
 local robstateatm = false
 local hacked = false
 local norob = true

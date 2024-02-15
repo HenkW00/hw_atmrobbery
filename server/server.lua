@@ -1,3 +1,5 @@
+ESX = exports["es_extended"]:getSharedObject()
+
 local webhookUrl = Config.DiscordWebhookUrl
 
 function sendDiscordMessage(embed)
